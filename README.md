@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there 👋
+
+Yes, this whole profile was pampered last week.
 
 <!--
 **adela-domokosova/adela-domokosova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
